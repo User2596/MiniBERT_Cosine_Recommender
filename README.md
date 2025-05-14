@@ -2,6 +2,9 @@
 
 This project is a full-stack application that recommends similar tweets based on user input using cosine similarity and MiniBERT embeddings.
 
+![image](https://github.com/user-attachments/assets/8d265905-417d-420d-bbe1-e767ba704ee6)
+
+
 ## Features
 
 - React-based frontend with a modern, responsive UI
